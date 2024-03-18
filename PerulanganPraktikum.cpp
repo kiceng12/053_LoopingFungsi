@@ -8,12 +8,11 @@ int main()
 
     for (i = 0; i < 5; ++)
     {
-
         cout << 1 << "Hendra" << endl;
     }
     
     for (i = 0; i < 5; i ++){
-        cout << "Masukan Nama = ";
+        cout << "Masukan Nama =";
         cin >> arr{i};
     }
 
